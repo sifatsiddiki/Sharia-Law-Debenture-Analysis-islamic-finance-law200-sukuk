@@ -23,5 +23,5 @@ This repository hosts an academic assignment written for the **Legal Environment
 
 ---
 
-## 🛠️ Project Contents
+##  Project Contents
 * `LAW200_Sharia_Law_Debenture_Assignment.pdf` (The full academic response paper and literature references).
